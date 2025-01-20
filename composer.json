@@ -21,7 +21,7 @@
         "friendsofphp/php-cs-fixer": "^3.51",
         "phar-io/version": "^3.2",
         "php-di/php-di": "^7.0",
-        "phpstan/phpstan": "^1.10",
+        "phpstan/phpstan": "^2.1",
         "symplify/monorepo-builder": "^11.2"
     },
     "autoload": {
